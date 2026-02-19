@@ -43,12 +43,9 @@ p {
 }
 nav a {
   color: white;
+  text-decoration: none;
 }
 
-footer {
-  color: white;
-}
-
-a {
-  color: #1d4ed8;
+nav a:hover {
+  color: #60a5fa;
 }
